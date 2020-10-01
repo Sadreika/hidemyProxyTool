@@ -1,0 +1,11 @@
+C:\Users\mariu\Documents\GitHub\Bakalauras\hidemyProxyTool\hidemyProxyTool\hidemyProxyTool\bin\Debug\hidemyProxyTool.exe.config
+C:\Users\mariu\Documents\GitHub\Bakalauras\hidemyProxyTool\hidemyProxyTool\hidemyProxyTool\bin\Debug\hidemyProxyTool.exe
+C:\Users\mariu\Documents\GitHub\Bakalauras\hidemyProxyTool\hidemyProxyTool\hidemyProxyTool\bin\Debug\hidemyProxyTool.pdb
+C:\Users\mariu\Documents\GitHub\Bakalauras\hidemyProxyTool\hidemyProxyTool\hidemyProxyTool\bin\Debug\HtmlAgilityPack.dll
+C:\Users\mariu\Documents\GitHub\Bakalauras\hidemyProxyTool\hidemyProxyTool\hidemyProxyTool\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\mariu\Documents\GitHub\Bakalauras\hidemyProxyTool\hidemyProxyTool\hidemyProxyTool\bin\Debug\HtmlAgilityPack.xml
+C:\Users\mariu\Documents\GitHub\Bakalauras\hidemyProxyTool\hidemyProxyTool\hidemyProxyTool\obj\Debug\hidemyProxyTool.csprojAssemblyReference.cache
+C:\Users\mariu\Documents\GitHub\Bakalauras\hidemyProxyTool\hidemyProxyTool\hidemyProxyTool\obj\Debug\hidemyProxyTool.csproj.CoreCompileInputs.cache
+C:\Users\mariu\Documents\GitHub\Bakalauras\hidemyProxyTool\hidemyProxyTool\hidemyProxyTool\obj\Debug\hidemyProxyTool.csproj.CopyComplete
+C:\Users\mariu\Documents\GitHub\Bakalauras\hidemyProxyTool\hidemyProxyTool\hidemyProxyTool\obj\Debug\hidemyProxyTool.exe
+C:\Users\mariu\Documents\GitHub\Bakalauras\hidemyProxyTool\hidemyProxyTool\hidemyProxyTool\obj\Debug\hidemyProxyTool.pdb
